@@ -1,0 +1,2 @@
+# Rotating billboard using CSS3
+Source files from demo located at [Marcofolio.net](http://marcofolio.net/). Read [the article](http://www.marcofolio.net/css/rotating_billboard_using_only_css3.html), view [the demo](http://demo.marcofolio.net/rotating_billboard/) or download the code here.
