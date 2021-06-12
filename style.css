@@ -5,7 +5,7 @@
 	-webkit-transition-property: -webkit-transform; /* Only animate the transform property */
 }
 #billboard li div:nth-child(1) {
-	background-image:url(http://demo.marcofolio.net/rotating_billboard/images/cocktail.png); z-index:999;
+	background-image:url(https://raw.githubusercontent.com/timbalicious/bb1/main/image1.png); z-index:999;
 	-webkit-animation:rotate 25s linear;
 	-webkit-animation-iteration-count: infinite; /* Keep on looping */
 	-webkit-transform-origin:center;
@@ -21,7 +21,7 @@
 }
 
 #billboard li div:nth-child(2) {
-	background-image:url(http://demo.marcofolio.net/rotating_billboard/images/coffee.png); z-index:998;
+	background-image:url(https://raw.githubusercontent.com/timbalicious/bb1/main/image2.png); z-index:998;
 	-webkit-animation:rotate2 25s linear;
 	-webkit-animation-iteration-count: infinite; /* Keep on looping */
 	-webkit-transform-origin:right;
@@ -38,7 +38,7 @@
 }
 
 #billboard li div:nth-child(3) {
-	background-image:url(http://demo.marcofolio.net/rotating_billboard/images/shotglass.png); z-index:997;
+	background-image:url(https://raw.githubusercontent.com/timbalicious/bb1/main/image3.png); z-index:997;
 	-webkit-animation:rotate3 25s linear;
 	-webkit-animation-iteration-count: infinite; /* Keep on looping */
 	-webkit-transform-origin:left;
