@@ -24,7 +24,7 @@
 	background-image:url(https://raw.githubusercontent.com/timbalicious/bb1/main/image2.png); z-index:998;
 	-webkit-animation:rotate2 25s linear;
 	-webkit-animation-iteration-count: infinite; /* Keep on looping */
-	-webkit-transform-origin:left;
+	-webkit-transform-origin:right;
 }
 
 @-webkit-keyframes rotate2 {
