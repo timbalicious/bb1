@@ -1,6 +1,6 @@
 #billboard { list-style:none; padding-top:0px; padding-left:0px; }
 #billboard li { display:inline; float:left; }
-#billboard li div { height:335px; width:35.5px; position:absolute;
+#billboard li div { height:389px; width:35.5px; position:absolute;
 	-webkit-backface-visibility: hidden; /* Hide when facing back */
 	-webkit-transition-property: -webkit-transform; /* Only animate the transform property */
 }
